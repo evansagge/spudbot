@@ -19,3 +19,4 @@ RUN yo hubot --owner="Evan <evan@entelo.com>" --name="Spud-Bot" --description="H
 
 RUN npm install hubot-slack --save && npm install
 CMD bin/hubot -a slack
+
